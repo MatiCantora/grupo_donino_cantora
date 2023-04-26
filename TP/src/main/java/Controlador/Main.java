@@ -94,7 +94,11 @@ public class Main {
 
     public static boolean esNumero(String dato) throws NumberFormatException, ErrorException {
 
-        pantalla.println("Debe ingresar un número");
+        try {
+            int aux = Integer.parseInt(dato);
+        }catch (NumberFormatException e){
+            pantalla.println("Debe ingresar un número");
+        }
 
         if( Integer.parseInt(dato) > -1){
             return true;
