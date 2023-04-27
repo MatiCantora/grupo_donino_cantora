@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Proyecto\src\test\resources\testPartidosMain.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Proyecto\src\test\resources\testResultados.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\out\production\grupo_donino_cantora\main\java\Archivos\PronosticosJugador1.csv">
           <value>
             <Attribute>

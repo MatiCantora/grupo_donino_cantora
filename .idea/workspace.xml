@@ -4,76 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3c824e-79f8-43f4-951a-88b18ddcdf03" name="Changes" comment="repeticion">
-      <change afterPath="$PROJECT_DIR$/Proyecto/resources/Archivos/PronosticosJugador1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/resources/Archivos/ResultadosPartidos.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Classes/EquipoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Classes/JugadorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Classes/PartidoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Classes/PronosticoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Classes/TorneoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/src/test/java/Procesos/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/target/test-classes/testPartidosMain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/target/test-classes/testPronosticosMain" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto/target/test-classes/testResultados.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/grupo_donino_cantora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/grupo_donino_cantora.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/Proyecto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/Proyecto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/resources/Archivos/PronosticosJugador1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grupo_donino_cantora/main/java/Archivos/PronosticosJugador1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/resources/Archivos/ResultadosPartidos.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Controlador/ErrorException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Controlador/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Controlador/PronosticosResultado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Equipo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Jugador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Participante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Partido.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Pronostico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/main/java/Modelo/Torneo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Controladores/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Modelo/EquipoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Modelo/JugadorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Modelo/PartidoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Modelo/PronosticoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/java/Modelo/TorneoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/resources/testPartidosMain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/src/test/resources/testPartidosMain.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/resources/testPronosticosMain" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/src/test/resources/testPronosticosMain" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/src/test/resources/testResultados.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/src/test/resources/testResultados.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Controlador/DatoInvalidoException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Controlador/ErrorException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Controlador/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Controlador/PronosticosDeportivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Controlador/PronosticosResultado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Equipo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Jugador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Participante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Partido.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Pronostico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/classes/Modelo/Torneo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Controladores/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Modelo/EquipoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Modelo/JugadorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Modelo/PartidoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Modelo/PronosticoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/Modelo/TorneoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/testPartidosMain.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/testPronosticosMain" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP/target/test-classes/testResultados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/grupo_11_argentina_programa_4.0/main/java/Archivos/PronosticosJugador1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/grupo_11_argentina_programa_4.0/main/java/Archivos/ResultadosPartidos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/grupo_donino_cantora/main/java/Archivos/ResultadosPartidos.csv" afterDir="false" />
-    </list>
+    <list default="true" id="df3c824e-79f8-43f4-951a-88b18ddcdf03" name="Changes" comment="Ultimos detalles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682468358793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ultimos detalles">
+      <created>1682636785010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682636785010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer build" />
     <MESSAGE value="repeticion" />
-    <option name="LAST_COMMIT_MESSAGE" value="repeticion" />
+    <MESSAGE value="Ultimos detalles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimos detalles" />
   </component>
 </project>
