@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3c824e-79f8-43f4-951a-88b18ddcdf03" name="Changes" comment="Ultimos detalles" />
+    <list default="true" id="df3c824e-79f8-43f4-951a-88b18ddcdf03" name="Changes" comment="Ultimos detalles 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682636785010</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ultimos detalles 2">
+      <created>1682636851825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682636851825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +125,7 @@
     <MESSAGE value="primer build" />
     <MESSAGE value="repeticion" />
     <MESSAGE value="Ultimos detalles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ultimos detalles" />
+    <MESSAGE value="Ultimos detalles 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimos detalles 2" />
   </component>
 </project>
