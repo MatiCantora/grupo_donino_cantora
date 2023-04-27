@@ -3,28 +3,28 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\TP\resources\Archivos\PronosticosJugador1.csv">
+        <entry key="\Proyecto\resources\Archivos\PronosticosJugador1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\TP\resources\Archivos\ResultadosPartidos.csv">
+        <entry key="\Proyecto\resources\Archivos\ResultadosPartidos.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\TP\src\test\resources\testPartidosMain.csv">
+        <entry key="\out\production\grupo_donino_cantora\main\java\Archivos\PronosticosJugador1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\TP\src\test\resources\testResultados.csv">
+        <entry key="\out\production\grupo_donino_cantora\main\java\Archivos\ResultadosPartidos.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
